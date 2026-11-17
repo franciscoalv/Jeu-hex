@@ -1,0 +1,7 @@
+# ninja log v5
+21	237	7083039809875996	CMakeFiles/projet_hex.dir/main.c.obj	652bfc4a6ebe1037
+15	173	7083010877671634	CMakeFiles/projet_hex.dir/fonctions.c.obj	b8f610de78ce9ef
+238	396	7083039811390369	projet_hex.exe	7e27abe4d4b82f5c
+3	3172	7481959658041456	CMakeFiles/projet_hex.dir/fonctions.c.obj	850f10458a2aa98e
+72	3215	7481959658924828	CMakeFiles/projet_hex.dir/main.c.obj	1b37042511d2977b
+3215	3697	7481959663652827	projet_hex.exe	7dc97620c995efbd
